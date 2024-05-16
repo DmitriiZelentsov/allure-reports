@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 16 22:53:45 GMT 2024","Thu May 16 22:53:45 GMT 2024","3","","LabelsTest","","LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu May 16 22:53:45 GMT 2024","Thu May 16 22:53:49 GMT 2024","3581","","SelenideTest","","SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Thu May 16 22:53:44 GMT 2024","Thu May 16 22:53:45 GMT 2024","1168","","AttachmentsTest","","AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Thu May 16 22:53:42 GMT 2024","Thu May 16 22:53:44 GMT 2024","2413","","AttachmentsTest","","AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Thu May 16 22:53:45 GMT 2024","Thu May 16 22:53:45 GMT 2024","2","","LabelsTest","","LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu May 16 22:53:49 GMT 2024","Thu May 16 22:53:51 GMT 2024","2516","","StepsTest","","StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Thu May 16 22:53:51 GMT 2024","Thu May 16 22:53:54 GMT 2024","2328","","StepsTest","","StepsTest","testLambdaStep","testLambdaStep()",""
